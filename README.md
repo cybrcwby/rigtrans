@@ -21,4 +21,7 @@ Note: the concepts for catOutPreconfig and catOutDeinit are from PCALE (MMI-RADI
 
 # Running:
 powerShell.exe -ExecutionPolicy UnRestricted -File rig_trans.ps1 -gComPortIn COM25 -gComPortOut COM11
-  
+
+## Current-status reconciliation — 2026-10-18
+
+Legacy reference: current compatibility and safe radio behavior require separate validation before reuse. [Current status and outstanding issues](docs/OUTSTANDING_ISSUES_AND_CURRENT_STATUS_20261018.md).
